@@ -28,12 +28,12 @@ A responsive Marvel movie listing and search application built with HTML, CSS, a
   <img 
     src="./assets/MarvelIphone.png" 
     alt="Mobile Mockup" 
-    width="550" 
+    width="800" 
     height="1000"
   >
 </div>
 
-
+---
 ## 📌 About
 
 MarvelMovies is a client-side web application that displays a list of Marvel movies and allows users to search them in real time.
