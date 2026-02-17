@@ -18,7 +18,7 @@ A responsive Marvel movie listing and search application built with HTML, CSS, a
 # 📱 User Interface Preview
 
 ## Desktop Views 
-![Desktop Mockup](./assets/LaptopPages.png)
+![Desktop Mockup](./assets/MarvelLaptop.png)
 
 ---
 
@@ -26,7 +26,7 @@ A responsive Marvel movie listing and search application built with HTML, CSS, a
 
 <div align="center">
   <img 
-    src="./assets/PhonePages.png" 
+    src="./assets/MarvelIphone.png" 
     alt="Mobile Mockup" 
     width="550" 
     height="1000"
